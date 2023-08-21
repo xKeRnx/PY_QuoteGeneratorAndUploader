@@ -1,0 +1,13 @@
+gTTS==2.2.4
+moviepy==1.0.3
+mutagen==1.46.0
+requests==2.28.1
+tqdm==4.64.1
+beautifulsoup4==4.10.0
+kcu==0.0.73
+kstopit==0.0.16
+kyoutubescraper==0.0.2
+noraise==0.0.16
+selenium==4.0.0
+setuptools==67.8.0
+xpath-utils==0.0.3
